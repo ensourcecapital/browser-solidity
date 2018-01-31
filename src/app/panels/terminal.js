@@ -46,7 +46,7 @@ var css = csjs`
   }
   .clear           {
     margin-left       : 10px;
-    margin-right      : 10px; 
+    margin-right      : 10px;
     width             : 10px;
     cursor            : pointer;
     color             : ${styles.terminal.icon_Color_TogglePanel};
